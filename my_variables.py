@@ -1,1 +1,1 @@
-my_name = "Kevin"
+user_name = input("What is your name? ")
